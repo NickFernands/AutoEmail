@@ -1,0 +1,31 @@
+{
+  "name": "atv-nodemailer",
+  "version": "1.0.0",
+  "description": "atividade de envio de emails automaticos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/InfoJrUFBA/nucleos/back-end/2-ciclo/basico/atividade-8-crud-com-envio-de-emails-automaticos.git"
+  },
+  "keywords": [
+    "nodemailer"
+  ],
+  "author": "nicholas fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/InfoJrUFBA/nucleos/back-end/2-ciclo/basico/atividade-8-crud-com-envio-de-emails-automaticos/issues"
+  },
+  "homepage": "https://gitlab.com/InfoJrUFBA/nucleos/back-end/2-ciclo/basico/atividade-8-crud-com-envio-de-emails-automaticos#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12"
+  }
+}
