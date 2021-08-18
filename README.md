@@ -8,10 +8,10 @@ A API utiliza validações e tratamentos de erros adequados para cada situação
 foi utilizada a ferramenta de testes de email Mailtrap na construção dessa API, abaixo tem exemplos de alguns emails enviados:
 
 #### Novo Post
-![Novo Post](novo post.png)
+![Novo Post](https://raw.githubusercontent.com/NickFernands/AutoEmail.js/master/novo%20post.png)
 
 #### Autor Removido
-![Autor Removido](autor removido.png)
+![Autor Removido](https://raw.githubusercontent.com/NickFernands/AutoEmail.js/master/autor%20removido.png)
 
 Sintam-se livres para utilizar qualquer outro serviço que desejarem
 
