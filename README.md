@@ -8,10 +8,10 @@ A API utiliza validações e tratamentos de erros adequados para cada situação
 foi utilizada a ferramenta de testes de email Mailtrap na construção dessa API, abaixo tem exemplos de alguns emails enviados:
 
 #### Novo Post
-![Novo Post](C:\Users\Nickaum\Desktop\Nodemailer\novo post.png)
+![Novo Post](novo post.png)
 
 #### Autor Removido
-![Autor Removido](C:\Users\Nickaum\Desktop\Nodemailer\autor removido.png)
+![Autor Removido](autor removido.png)
 
 Sintam-se livres para utilizar qualquer outro serviço que desejarem
 
